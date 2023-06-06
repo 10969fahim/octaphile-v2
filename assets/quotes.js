@@ -16,5 +16,5 @@ export default [
   { author: "FahiMatcha", quotes: "34+35 is inappropriate but can I be your 35-34 and only?" },
   { author: "FahimUrFav", quotes: "Anything You Want" },
   { author: "FahimatchaDepan", quotes: "I just wanna be yours" },
-  { author: "FahimSukaNgising", quotes: "Look at the keyboard, do u realize that I always beside U?" },
+  { author: "FahimSukaNgising", quotes: "Look at the keyboard, do u realize that I always beside U?" }
 ];
