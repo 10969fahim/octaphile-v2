@@ -1,6 +1,9 @@
 export default [
-  "Hi!",
-  "Klik next ya!",
+  "Assalamualaikum",
+  "Next aja sayang wkwk!",
   "Udah itu aja",
-  "Aku sayang kamu!"
+  "Gaada apa apa sihh",
+  "Tapi boong yhaa",
+  "Sabar ngab hehe",
+  "I Love You, My Beautiful Beautiful Okta"
 ];
